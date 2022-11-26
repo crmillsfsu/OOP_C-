@@ -1,4 +1,4 @@
-# OOP_C-
+# OOP_C++
 Table of contents
 <ol>
 <li>Lines on a Plane</li>
